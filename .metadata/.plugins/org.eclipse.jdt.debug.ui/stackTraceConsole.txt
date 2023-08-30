@@ -1,0 +1,13 @@
+public interface TalkableTest {
+    static void speak(...) {
+        ...
+    }
+
+    public static void main(String[] args) {
+        speak(new Korean());
+        speak(new American());
+    }
+}
+
+== 결과 : 안녕하세요!
+         Hello!

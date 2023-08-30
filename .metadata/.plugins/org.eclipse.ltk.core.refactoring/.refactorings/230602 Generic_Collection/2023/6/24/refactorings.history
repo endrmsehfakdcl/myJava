@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Box.java&apos; to &apos;230612/src/exam04&apos;&#x0D;&#x0A;- Original project: &apos;230602 Generic_Collection&apos;&#x0D;&#x0A;- Destination element: &apos;230612/src/exam04&apos;&#x0D;&#x0A;- Original element: &apos;before_generic.Box.java&apos;" description="Copy compilation unit" destination="=230612/src&lt;exam04" element1="/src&lt;before_generic{Box.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1686558075696" units="1" version="1.0"/>
+</session>

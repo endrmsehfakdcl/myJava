@@ -1,0 +1,3 @@
+use keduit;
+select * from seoullocation;
+desc seoullocation;
